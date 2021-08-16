@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744370384201",
+    "project_id": "movie-app-hive-flutter",
+    "storage_bucket": "movie-app-hive-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744370384201:android:26001ad9f5f78ef9963e98",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744370384201-afu3d69ugrdjghufqudtspgidgjgeau1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_app",
+            "certificate_hash": "9efae813f45721d0d6abf0761c2cb00bf47665af"
+          }
+        },
+        {
+          "client_id": "744370384201-kido3ld5r62m4cqsqujol4briifhgejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGigxNqgZUu1umq3Vi919RK86LNtTg5vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744370384201-kido3ld5r62m4cqsqujol4briifhgejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

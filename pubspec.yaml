@@ -33,12 +33,19 @@ dependencies:
   hive_flutter:
   flutter_slidable: ^0.6.0
   google_fonts: ^2.1.0
+  image_picker: ^0.8.3+2
+  firebase_auth: ^1.2.0
+  firebase_core: ^1.2.0
+  font_awesome_flutter: ^9.0.0
+  google_sign_in: ^5.0.3
+  lottie: ^1.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   hive_generator: ^1.0.0
   build_runner: ^1.11.5
+  image_cropper:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -52,8 +59,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/lottie/movie_popcorn.json
+    - assets/lottie/login_panel.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
